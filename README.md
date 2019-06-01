@@ -5,10 +5,11 @@ Drivers can be downloaded from Third Party Drivers, Bindings, and Plugins of htt
 
 1. academic_morality
 
+   change driver_path in scripts to the path of driver
+
    - crawl answers (optional)
 
      ```
-     # change driver_path to the path of driver
      $ python crawl_ans.py
      ```
 
@@ -17,7 +18,6 @@ Drivers can be downloaded from Third Party Drivers, Bindings, and Plugins of htt
    - answer the questionnaire
 
      ```
-     # change driver_path to the path of driver
      $ python ans_form.py
      ```
 
