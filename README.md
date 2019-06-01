@@ -8,7 +8,8 @@ Drivers can be downloaded from Third Party Drivers, Bindings, and Plugins of htt
    - crawl answers (optional)
 
      ```
-     python crawl_ans.py
+     # change driver_path to the path of driver
+     $ python crawl_ans.py
      ```
 
      ![academic_morality](https://github.com/zxdawn/autofill_nuist/raw/master/examples/academic_morality_1.gif)
@@ -16,7 +17,8 @@ Drivers can be downloaded from Third Party Drivers, Bindings, and Plugins of htt
    - answer the questionnaire
 
      ```
-     python ans_form.py
+     # change driver_path to the path of driver
+     $ python ans_form.py
      ```
 
      ![academic_morality](https://github.com/zxdawn/autofill_nuist/raw/master/examples/academic_morality_2.gif)
