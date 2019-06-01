@@ -3,6 +3,8 @@ Autofill questionnaires or others released by NUSIT
 
 Drivers can be downloaded from Third Party Drivers, Bindings, and Plugins of https://www.seleniumhq.org/download/. These scripts use Google Chrome Driver.
 
+If you can't access the download link, please download the chrome driver from [mirror](http://npm.taobao.org/mirrors/chromedriver/) directly.
+
 1. academic_morality
 
    change driver_path in scripts to the path of driver
